@@ -1,0 +1,14 @@
+Install allure-behave package in pycharm
+https://github.com/allure-framework/allure2/releases - download the latest zip file allure-2.17.2.zip
+extract the folder of zip file
+add bin path to environment variables 
+checked version in cmd allure --version
+behave features/Feature_Login.feature
+behave -f allure_behave.formatter:AllureFormatter -o allure_result_folder ./FeaturesFile - run this line in pycharm terminal.
+allure serve allure_result_folder
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+requests~=2.27.1
+pandas~=1.4.0
+behave~=1.2.6
+psycopg2~=2.9.3
+jsonschema~=4.4.0
+jproperties~=2.1.1
+
+openpyxl~=3.0.9
