@@ -78,6 +78,4 @@ This does the same as <pip install -r requirements.txt>. Alternatively, you can 
             
     This will start the application 
 
-# API_Python_BDD_Hackathon_Testing
-#API_Python_BDD_Hackathon_Testing
-# API_Python_BDD_Hackathon_Testing
+
